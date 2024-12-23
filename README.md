@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 
 ## 📊 GitHub Stats
 
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayanksingh038&show_icons=true&theme=radical)
 
 ## 🛠️ Tech Stack
 
@@ -23,8 +23,8 @@ Here are some tools and technologies I work with:
 
 ## 💌 Let's Connect
 
-- LinkedIn: [Mayank's LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID/)
-- Twitter: [@YOUR_TWITTER_HANDLE](https://twitter.com/YOUR_TWITTER_HANDLE)
-- Portfolio: [Your Portfolio](https://YOUR_PORTFOLIO_LINK)
+- LinkedIn: [Mayank's LinkedIn](https://www.linkedin.com/in/mayanksingh038/)
+- Twitter: [@mayanksingh](https://twitter.com/mayanksingh)
+- Portfolio: [Mayank's Portfolio](https://mayanksingh038.io)
 
 Thanks for stopping by! Let's collaborate and create amazing things together. 🚀
