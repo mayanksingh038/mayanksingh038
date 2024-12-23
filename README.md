@@ -1,7 +1,7 @@
 <h1 alig[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://mayanksingh038.io)
 <h1 align="center">Hi 👋, I'm Mayank Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right" alt="Coding" width="400" scr="https://ca.pinterest.com/pin/227924431135388712/">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayanksingh038&label=Profile%20views&color=0e75b6&style=flat" alt="mayanksingh038" /> </p>
 
