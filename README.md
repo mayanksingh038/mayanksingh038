@@ -9,9 +9,7 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 - 🔧 **Building Projects:** Exploring web development and contributing to open-source
 - ✈ **Hobbies:** Tech blogging, competitive programming, and traveling
 
-## 📊 GitHub Stats
 
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayanksingh038&show_icons=true&theme=radical)
 
 ## 🛠️ Tech Stack
 
